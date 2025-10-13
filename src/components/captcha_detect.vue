@@ -307,7 +307,6 @@ export default {
 }
 
 h2 {
-    background-color: var(--bg4-color);
     color: var(--font-color);
     margin-top: 80px;
 }
